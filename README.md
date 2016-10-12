@@ -1,7 +1,11 @@
 # PLAN PROJEKTU
+
 Gra platformowa
+
 * Opis ogólny:
-  - stworzenie gry platformowej, 
-* Wygląd programu
-  - kolorowa grafika,
-  - muzyka.
+  - Stworznie gry platformowej. Użycie kolorowej grafiki i obecność muzyki w tle. Poruszanie postacią przy pomocy klawiatury. Możliwość zbierania punktów. Obecność przeszkód do ominięcia. Powstaną 3 poziomy o różnym stopniu trudności. 
+  
+* Harmonogram pracy:
+  - 18.11.16r. stworzenie grafiki do gry
+  - 9.12.16r. stworzenie prototypu
+  - 12.01.17r. końcowy projekt 
