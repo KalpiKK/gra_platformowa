@@ -5,7 +5,8 @@ Gra platformowa
 * Opis ogólny:
   - Stworznie gry platformowej. 
   - Użycie kolorowej grafiki 2D i obecność muzyki w tle. 
-  - Utworzenie dźwięków poruszania postaci. Poruszanie postacią przy pomocy klawiatury. 
+  - Utworzenie dźwięków poruszania postaci. 
+  - Poruszanie postacią przy pomocy klawiatury. 
   - Podstawowa mechanika gry oraz wykrywanie kolizji. 
   - Możliwość zbierania punktów. 
   - Obecność przeszkód do ominięcia w postaci bloków i potworów. 
