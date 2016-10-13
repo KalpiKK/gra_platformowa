@@ -13,6 +13,9 @@ Gra platformowa
   - Powstaną 3 poziomy o różnym stopniu trudności. 
   - Możliwosć popełnienia 3 błędów, po przekroczeniu limitu utrata punktów i rozpoczęcie gry od nowa.
   
+* Opis gry:
+  - Kot zbierający punkty pod postacią butelek z mlekiem. Podczas zbierania napotykający wiele przeszkód np. psy, ogrodzenia itp. 
+  
 * Harmonogram pracy:
   - 18.11.16r. stworzenie grafiki do gry
   - 10.12.16r. dopracowanie wszystkich kolizji
