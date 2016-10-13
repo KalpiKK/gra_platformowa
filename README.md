@@ -15,5 +15,6 @@ Gra platformowa
   
 * Harmonogram pracy:
   - 18.11.16r. stworzenie grafiki do gry
-  - 9.12.16r. stworzenie prototypu
+  - 10.12.16r. dopracowanie wszystkich kolizji
+  - 19.12.16r. stworzenie prototypu
   - 12.01.17r. końcowy projekt 
