@@ -4,26 +4,19 @@
 
 #include "bloki.h"
 
-Bloki::Bloki(float startX, float startY)
+Bloki::Bloki(float startX, float startY, Texture &texture)
 {
     position.x = startX;
     position.y = startY;
 
     blokiShape.setSize(sf::Vector2f(50, 50));
-    blokiShape.setFillColor(sf::Color(200, 250, 0));
+    blokiShape.setTexture(&texture);
     blokiShape.setPosition(position);
 }
-FloatRect Bloki::getPosition()
-{
-    return blokiShape.getGlobalBounds();
-}
+
 
 RectangleShape Bloki::getShape()
 {
     return blokiShape;
 }
 
-void Bloki::update()
-{
-    blokiShape.setPosition(position);
-}

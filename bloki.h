@@ -13,19 +13,12 @@ class Bloki {
 
 public:
     Vector2f position;
-
     RectangleShape blokiShape;
 
-    float szybkosc = .3f;
-    Bloki(float startX, float startY);
-
-    FloatRect getPosition();
-
+    Bloki(float startX, float startY, Texture &texture);
     RectangleShape getShape();
 
 
-
-    void update();
 };
 
 #endif //PROJEKT_BLOKI_H

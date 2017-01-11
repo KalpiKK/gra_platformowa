@@ -13,13 +13,14 @@ public:
 
     float dx, dy;
     Sprite sprite;
-
     Kot(Texture &texture, FloatRect re);
     FloatRect rect;
 
     bool podloga;
     void kolizja(int la);
-    void update(float time);
+    void kolizja2(int la);
+    void kolizja3(int la);
+    void update(int poziom, Texture &kot1,Texture &kot11,Texture &kot2,Texture &kot22, int to);
 
 };
 
